@@ -1,0 +1,15 @@
+{
+  "configurations": [
+    {
+      "name": "UCRT64",
+      "compilerPath": "C:/msys64/ucrt64/bin/g++.exe",
+      "includePath": [
+        "C:/msys64/ucrt64/include",
+        "C:/msys64/ucrt64/include/SFML"
+      ],
+      "intelliSenseMode": "windows-gcc-x64",
+      "cppStandard": "c++17"
+    }
+  ],
+  "version": 4
+}
